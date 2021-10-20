@@ -1,2 +1,2 @@
 # core
-mash 核心代码（类库）
+freemash 核心代码（类库）
